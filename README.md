@@ -1,18 +1,19 @@
-# playgroud-http-proxy
+# playground-http-proxy
 
 playground about http proxy with node
 
 ## Install
 
-    npm i @undefined/playgroud-http-proxy --save-dev
-
-## Usage
-
-```js
-var module = require('playgroud-http-proxy');          // your code here,
-                                                       // your doc here.
-```
+    git clone git@github.com:playground-http-proxy/npi.git
 
 ## More
 
-Additional links and comments.
+- http://stackoverflow.com/questions/20351637/how-to-create-a-simple-http-proxy-in-node-js
+- https://github.com/nodejitsu/node-http-proxy
+- https://github.com/rse/node-http-proxy-simple
+- https://github.com/No9/harmon
+- https://github.com/braintree/mallorca
+- https://github.com/tomas/needle
+- https://github.com/pkrumins/nodejs-proxy
+- https://github.com/christophebe/simple-proxies
+- https://github.com/InstantWebP2P/node-httpp-proxy
